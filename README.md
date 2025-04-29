@@ -24,9 +24,3 @@
 
 
 
-
-
-
-![api](https://github.com/user-attachments/assets/79782d5a-2a88-422e-a641-e8ec3d2618c7)
-    
-
