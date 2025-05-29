@@ -1,30 +1,27 @@
+<div align="center">
 
-  ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/fd4a26fc-8cd0-461f-9877-712f0ed9fe4e)
-  ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/31d22192-0ce1-4440-a296-c30737180def)
-
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3030374339323f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/c2a9e35f-d3ab-4bbf-b2fc-d95171d8b25d)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41696f6772616d2d3343383744373f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/eb0ea146-18da-45cc-94d2-641c8492d6de)
-![image](https://github.com/user-attachments/assets/536e61dd-8ffc-4c8c-ae72-27b3e551e83e)
-![image](https://github.com/user-attachments/assets/b05a4d69-53df-4d66-b162-ceee745895d6)
-![image](https://github.com/user-attachments/assets/1f073432-87c5-4267-b4c0-6dab6b200e74)
-
-
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/32fb70a1-d680-491a-9d71-04a0750bbcac)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/ff7711df-036c-4d00-aef4-831cdb7fce29)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/da0e66ff-96b0-452c-94e8-1ca7cf93c09f)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f657472792d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d706f65747279266c6f676f436f6c6f723d7768697465 (1)](https://github.com/user-attachments/assets/84dac5be-680e-4681-a33d-dac96337e4df)
-
-
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/2c33e310-e146-47c9-9c5b-58b9e3ac96fd)
-
-
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3030334235373f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d626c7565](https://github.com/user-attachments/assets/57b3e438-044d-4032-8258-0012f95310ac)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/377da8fd-8088-48b4-9ece-9028c5f48f02)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c416c6368656d792d4644414534353f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/9c0db7cd-330e-4014-9874-e6c800c5072e)
-![Redis-DC382D](https://github.com/user-attachments/assets/beaa5882-aaca-4aac-b68b-431f0a753059)
-
-
-
+  <img src="https://img.shields.io/badge/Python-007C92?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4F76E2?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Faker-FFB000?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Aiogram-3C87D7?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=blue" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-FDAE45?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Poetry-000000?style=for-the-badge&logo=poetry&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
 
 
 
