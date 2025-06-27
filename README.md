@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/Jinja-F10000?style=for-the-badge&logo=jinja&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup-4F76E2?style=for-the-badge&logo=python&logoColor=white" />
