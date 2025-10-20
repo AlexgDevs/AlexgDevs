@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/FastAPI-00B140?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Uvicorn-0C4B33?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jinja-F10000?style=for-the-badge&logo=jinja&logoColor=white" />
